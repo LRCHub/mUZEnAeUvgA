@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "風と行く道",
+  "base_artist": "大原ゆい子",
+  "createdAt": "2025-12-05T14:49:04.895400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風と行く道",
+      "artist": "Yuiko Ohara",
+      "has_synced": true,
+      "path": "select/01_風と行く道_Yuiko_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風と行く道",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/02_風と行く道_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風と行く道",
+      "artist": "大原ゆい子",
+      "has_synced": false,
+      "path": "select/03_風と行く道_大原ゆい子.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風と行く道",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/04_風と行く道_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風と行く道",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/05_風と行く道_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "風と行く道",
+      "artist": "Yuiko Ōhara - Topic",
+      "has_synced": true,
+      "path": "select/06_風と行く道_Yuiko_Ōhara_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "風と行く道",
+      "artist": "Yuiko Ōhara",
+      "has_synced": false,
+      "path": "select/07_風と行く道_Yuiko_Ōhara.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風と行く道",
+      "artist": "大原ゆい子",
+      "has_synced": false,
+      "path": "select/pl_01_風と行く道_大原ゆい子.txt"
+    }
+  ]
+}
